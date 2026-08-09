@@ -13,3 +13,4 @@ Aquí se muestra:
 - Servicios en ejecución
 
 Esta sección funciona como la portada del laboratorio, mostrando la base sobre la que se construyen todos los servicios posteriores.
+A partir de esta sección se desarrollarán los módulos de Active Directory, DNS, DHCP, IIS, WSUS y GPO.
