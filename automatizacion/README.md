@@ -1,1 +1,0 @@
-# Automatización y Scripts
