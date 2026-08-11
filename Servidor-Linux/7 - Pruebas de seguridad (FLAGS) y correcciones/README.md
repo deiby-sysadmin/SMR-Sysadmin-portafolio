@@ -1,0 +1,1 @@
+Se realizaron pruebas de seguridad en el servidor y los recursos compartidos, validando permisos, bloqueos, detección de intentos fallidos mediante Fail2ban, restauración desde backup y revisión del firewall UFW. Todos los PDF incluyen capturas y comandos utilizados durante las prácticas.
