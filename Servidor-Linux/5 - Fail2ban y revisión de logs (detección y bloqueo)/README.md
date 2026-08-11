@@ -1,0 +1,1 @@
+Se realizó la instalación y configuración de Fail2ban en Ubuntu Server, activando el jail SSH, comprobando su estado, realizando pruebas controladas de intentos fallidos y revisando los logs del servidor para validar la detección y el bloqueo. Todos los PDF incluyen capturas y comandos utilizados durante las prácticas.
