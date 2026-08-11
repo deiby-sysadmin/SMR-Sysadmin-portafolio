@@ -1,0 +1,1 @@
+Se realizó el empaquetado completo del laboratorio, incluyendo la documentación de configuración, datos clave del sistema, demostraciones técnicas de permisos Samba, Fail2ban, backups y restauración ante incidente simulado. Todos los PDF incluyen capturas y comandos utilizados durante las prácticas.
