@@ -1,69 +1,58 @@
-Servidor Linux — Laboratorio de Administración y Ciberseguridad
-Documentación completa, demostraciones técnicas y validación del entorno
-<div align="center">
+Servidor Linux — Entorno de Administración y Ciberseguridad
+Documentación completa, configuración, seguridad y demostraciones técnicas
+Este repositorio reúne toda la documentación del entorno Linux utilizado para prácticas reales de administración de sistemas y ciberseguridad.
+Incluye la construcción del servidor, su configuración, endurecimiento, automatización, pruebas de seguridad y validación final del sistema.
 
-Linux • Seguridad • Automatización • Auditoría • Respuesta ante incidentes
+El laboratorio está compuesto por:
 
-</div>
+Servidor Ubuntu configurado desde cero
 
- Resumen del proyecto
-Este repositorio contiene la documentación completa del laboratorio Linux utilizado para prácticas reales de administración de sistemas y ciberseguridad.
-A lo largo de diez semanas se construyó, configuró, endureció y validó un entorno profesional compuesto por:
+Cliente Windows integrado en la red interna
 
-Servidor Ubuntu
+Servicios de red y recursos compartidos
 
-Cliente Windows
+Seguridad activa (Fail2ban, UFW, políticas de acceso)
 
-Servicios de red
-
-Seguridad activa y pasiva
-
-Automatización de tareas
-
-Procedimientos de respuesta
-
-Demostraciones técnicas completas
-
-Cada subcarpeta incluye PDFs numerados con capturas, comandos y procedimientos utilizados durante las prácticas.
-
- Contenido del laboratorio
-Semana	Tema	Contenido
-1	Montaje del laboratorio y red base	Red interna, IPs, conectividad
-2	Usuarios y mínimos privilegios	Gestión de usuarios, sudo, SSH seguro
-3	Samba y permisos	Carpetas compartidas, accesos desde Windows
-4	Seguridad Windows + endurecimiento	Firewall, unidades de red, SSH por usuario
-5	Fail2ban + revisión de logs	Detección, baneo, análisis de logs
-6	Backups y restauración	rsync, Cron, recuperación ante incidente
-7	Pruebas de seguridad (FLAGS)	Permisos, Fail2ban, firewall, restauración
-8	Hardening final y control de accesos	Contraseñas, Samba, puertos, accesos
-9	Documentación técnica + respuesta	Arquitectura, procedimientos, auditoría
-10	Empaquetado, demostración y validación	Demo final, validación completa del entorno
-
-
- Objetivo del laboratorio
-Construir un entorno seguro, funcional y completamente reproducible que permita:
-
-Administración real de sistemas
-
-Prácticas de seguridad ofensiva y defensiva
+Seguridad pasiva (permisos, mínimos privilegios, hardening)
 
 Automatización de tareas críticas
 
-Auditoría y hardening del servidor
+Procedimientos técnicos y documentación formal
 
-Respuesta ante incidentes simulados
+Demostraciones completas del entorno funcionando
 
-Demostración técnica del sistema funcionando
+Cada subcarpeta contiene PDFs numerados con capturas, comandos y procedimientos utilizados durante las prácticas, organizados de forma profesional para facilitar la lectura, auditoría y reproducción del laboratorio.
 
- ¿Qué puedes encontrar aquí?
-Configuración completa del servidor
+¿Qué encontrarás aquí?
+Configuración inicial del entorno
 
-Procedimientos técnicos detallados
+Gestión de usuarios y permisos
 
-Scripts, reglas, configuraciones y pruebas
+Recursos compartidos con Samba
 
-Evidencias reales de funcionamiento
+Endurecimiento de Windows y Linux
 
-Demostraciones de seguridad
+Fail2ban y análisis de logs
 
-Restauración ante incidentes
+Backups y restauración ante incidentes
+
+Pruebas de seguridad y validación de accesos
+
+Documentación técnica y procedimientos de respuesta
+
+Empaquetado final y demostración del sistema completo
+
+Objetivo del entorno
+Proporcionar un laboratorio seguro, funcional y totalmente reproducible que permita:
+
+Administrar sistemas de forma profesional
+
+Practicar técnicas de seguridad defensiva
+
+Automatizar tareas críticas
+
+Realizar auditorías y hardening
+
+Responder ante incidentes simulados
+
+Demostrar el funcionamiento real del sistema
