@@ -1,1 +1,1 @@
-Durante esta semana se trabajó en la seguridad del servidor Ubuntu, enfocándose en la gestión de usuarios, privilegios mínimos, acceso remoto seguro y configuración del firewall. Cada tarea incluye capturas y comandos utilizados durante las prácticas.
+Se trabajó en la seguridad del servidor Ubuntu, enfocándose en la gestión de usuarios, privilegios mínimos, acceso remoto seguro y configuración del firewall. Cada PDF incluye capturas y comandos utilizados durante las prácticas.
