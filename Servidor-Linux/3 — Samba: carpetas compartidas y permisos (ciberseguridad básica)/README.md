@@ -1,0 +1,1 @@
+Se realizó la configuración de Samba en Ubuntu Server, creando recursos compartidos, gestionando permisos y realizando pruebas de acceso desde Windows. Todas los PDF incluyen capturas y comandos utilizados durante las prácticas
