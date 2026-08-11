@@ -1,0 +1,1 @@
+Se realizó la configuración de seguridad en Windows y el endurecimiento básico del servidor, incluyendo creación de usuarios, revisión del firewall, mapeo de unidades de red, restricción de acceso SSH por usuario y comprobación de la superficie mínima del sistema. Todos los PDF incluyen capturas y comandos utilizados durante las prácticas.
