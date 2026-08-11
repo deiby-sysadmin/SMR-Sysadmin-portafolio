@@ -1,0 +1,1 @@
+Se realizó la documentación técnica del laboratorio y la creación de procedimientos de respuesta, incluyendo gestión de usuarios y permisos, actuación ante baneo por Fail2ban, restauración desde backups y una autoauditoría final de hardening. Todos los PDF incluyen capturas y comandos utilizados durante las prácticas.
