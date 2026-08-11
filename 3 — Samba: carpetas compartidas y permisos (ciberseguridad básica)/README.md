@@ -1,1 +1,0 @@
-Durante esta semana se trabajó en la configuración de Samba en Ubuntu Server, creando recursos compartidos, gestionando permisos y realizando pruebas de acceso desde Windows. Todas las tareas incluyen capturas y comandos utilizados durante las prácticas.
