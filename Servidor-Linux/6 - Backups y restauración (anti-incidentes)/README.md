@@ -1,0 +1,1 @@
+Se realizó la preparación del entorno de backups en Ubuntu Server, definiendo los recursos a respaldar, creando un script con rsync, programando la ejecución automática con Cron y simulando un incidente para validar la restauración desde el backup. Todos los PDF incluyen capturas y comandos utilizados durante las prácticas.
