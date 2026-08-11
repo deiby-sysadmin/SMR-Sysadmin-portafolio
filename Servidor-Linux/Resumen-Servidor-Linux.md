@@ -5,7 +5,7 @@ La instalación inicial del sistema no fue documentada, pero se conserva la máq
 
 
                 
-                   Especificaciones
+                        Especificaciones
 | **Sistema Operativo**     | Ubuntu Server 26.04 |
 | **CPU Asignada**          | 2 núcleos |
 | **RAM Asignada**          | 4096 MB |
@@ -14,6 +14,7 @@ La instalación inicial del sistema no fue documentada, pero se conserva la máq
 | **Cliente Windows Unido** | Windows 10 |
 
 Servicios Configurados
+
 Samba — Gestión de recursos compartidos y permisos.
 
 SSH — Acceso remoto seguro.
