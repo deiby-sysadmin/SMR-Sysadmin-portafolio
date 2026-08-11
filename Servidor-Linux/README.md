@@ -1,5 +1,7 @@
 Servidor Linux — Entorno de Administración y Ciberseguridad
+
 Documentación completa, configuración, seguridad y demostraciones técnicas
+
 Este repositorio reúne toda la documentación del entorno Linux utilizado para prácticas reales de administración de sistemas y ciberseguridad.
 Incluye la construcción del servidor, su configuración, endurecimiento, automatización, pruebas de seguridad y validación final del sistema.
 
