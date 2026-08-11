@@ -6,19 +6,20 @@ El entorno incorpora controles de seguridad activos y pasivos, mecanismos de pro
 
 Cada subcarpeta contiene documentación estructurada en PDF con capturas, comandos y procedimientos utilizados, organizada para facilitar auditorías, revisiones técnicas y la reproducción del entorno.
 
-Capacidades del entorno
-Configuración completa del servidor y servicios
+Capacidades del entorno:
 
-Gestión de usuarios, permisos y políticas de acceso
+*Configuración completa del servidor y servicios
 
-Recursos compartidos y control de privilegios
+*Gestión de usuarios, permisos y políticas de acceso
 
-Endurecimiento de sistemas Linux y Windows
+*Recursos compartidos y control de privilegios
 
-Protección activa (Fail2ban, firewall, monitoreo)
+*Endurecimiento de sistemas Linux y Windows
 
-Backups automatizados y recuperación ante incidentes
+*Protección activa (Fail2ban, firewall, monitoreo)
 
-Validación técnica del entorno mediante demostraciones
+*Backups automatizados y recuperación ante incidentes
 
-Procedimientos formales y documentación operativa
+*Validación técnica del entorno mediante demostraciones
+
+*Procedimientos formales y documentación operativa
