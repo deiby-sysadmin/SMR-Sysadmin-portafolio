@@ -1,0 +1,1 @@
+Se realizó el endurecimiento final del servidor y la revisión completa de accesos, incluyendo políticas de contraseñas, revisión de usuarios, endurecimiento de Samba, validación de puertos y servicios, revisión del firewall UFW y pruebas de acceso desde Windows con mínimos privilegios. Todos los PDF incluyen capturas y comandos utilizados durante las prácticas.
