@@ -1,4 +1,5 @@
 Usuarios, mínimos privilegios y acceso remoto seguro
+
 Durante esta semana se trabajó en la seguridad del servidor Ubuntu, enfocándose en la gestión de usuarios, privilegios mínimos, acceso remoto seguro y configuración del firewall. Cada tarea incluye capturas y comandos utilizados durante las prácticas.
 
 Resumen de la semana
