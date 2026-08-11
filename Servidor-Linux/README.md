@@ -8,18 +8,18 @@ Cada subcarpeta contiene documentación estructurada en PDF con capturas, comand
 
 Capacidades del entorno:
 
-*Configuración completa del servidor y servicios
+* Configuración completa del servidor y servicios
 
-*Gestión de usuarios, permisos y políticas de acceso
+* Gestión de usuarios, permisos y políticas de acceso
 
-*Recursos compartidos y control de privilegios
+* Recursos compartidos y control de privilegios
 
-*Endurecimiento de sistemas Linux y Windows
+* Endurecimiento de sistemas Linux y Windows
 
-*Protección activa (Fail2ban, firewall, monitoreo)
+* Protección activa (Fail2ban, firewall, monitoreo)
 
-*Backups automatizados y recuperación ante incidentes
+* Backups automatizados y recuperación ante incidentes
 
-*Validación técnica del entorno mediante demostraciones
+* Validación técnica del entorno mediante demostraciones
 
-*Procedimientos formales y documentación operativa
+* Procedimientos formales y documentación operativa
