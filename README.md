@@ -1,9 +1,8 @@
-# Portafolio Técnico – Administración de Sistemas
+# Administración de Servidor Linux / Cliente Windows
 
 Este repositorio recopila mis prácticas, laboratorio y proyecto técnico en administración de sistemas Windows, Linux, redes, seguridad y automatización.
 
 ## Estructura del repositorio
-- windows-server: Active Directory, DNS, DHCP, GPO.
 - linux-admin: Usuarios, permisos, SSH, Samba, UFW, Fail2ban, rsync.
 - redes: Topologías, pruebas de conectividad, servicios.
 - seguridad: Hardening básico, firewall, monitorización.
