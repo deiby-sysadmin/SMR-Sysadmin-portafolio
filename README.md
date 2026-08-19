@@ -1,6 +1,6 @@
 # Portafolio Técnico – Administración de Sistemas
 
-Este repositorio recopila mis prácticas, laboratorios y proyectos técnicos en administración de sistemas Windows, Linux, redes, seguridad y automatización.
+Este repositorio recopila mis prácticas, laboratorio y proyecto técnico en administración de sistemas Windows, Linux, redes, seguridad y automatización.
 
 ## Estructura del repositorio
 - windows-server: Active Directory, DNS, DHCP, GPO.
